@@ -105,7 +105,7 @@ Feel free to reach out for collaborations, discussions, or just a friendly chat.
 
 <div align="center">
   
-**⭐️ From [sandyxd18](https://github.com/sandyxd18)**
+<!-- **⭐️ From [sandyxd18](https://github.com/sandyxd18)** -->
 
 *"Anyone can deal with victory. Only the mighty can bear defeat." - Adolf Hitler*
 
