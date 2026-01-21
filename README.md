@@ -89,28 +89,6 @@ current_focus:
 
 ---
 
-## 🎯 Current Focus
-
-- 🔭 Working on **Kubernetes cluster automation with Ansible**
-- 🌐 Building **cloud-native applications** and microservices
-- 📚 Learning **advanced DevOps practices** and **SRE principles**
-- 🤝 Looking to collaborate on **open-source DevOps tools**
-- 💬 Ask me about **Cloud Computing, Kubernetes, Docker, Ansible**
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![KNN-Model](https://github-readme-stats.vercel.app/api/pin/?username=sandyxd18&repo=debtected&theme=tokyonight&hide_border=true)](https://github.com/sandyxd18/debtected)
-
-<!-- Add more featured projects as you create them -->
-
-</div>
-
----
-
 ## 📫 Let's Connect!
 
 <div align="center">
