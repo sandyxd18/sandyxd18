@@ -74,11 +74,8 @@ current_focus:
 ## � GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandyxd18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandyxd18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sandyxd18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sandyxd18&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  /> -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandyxd18&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
